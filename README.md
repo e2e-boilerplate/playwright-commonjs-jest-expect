@@ -1,12 +1,12 @@
-# Puppeteer: (CommonJS, Jest and Expect)
+# Playwright: (CommonJS, Jest and Expect)
 
-[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-jest-expect](https://github.com/e2e-boilerplates/puppeteer-commonjs-jest-expect/workflows/puppeteer-commonjs-jest-expect/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-jest-expect/actions?workflow=puppeteer-commonjs-jest-expect)
+[![GitHub Actions status | e2e-boilerplates/playwright-commonjs-jest-expect](https://github.com/e2e-boilerplates/playwright-commonjs-jest-expect/workflows/playwright-commonjs-jest-expect/badge.svg)](https://github.com/e2e-boilerplates/playwright-commonjs-jest-expect/actions?workflow=playwright-commonjs-jest-expect)
 
-Puppeteer end-to-end test automation boilerplate, using CommonJS, Jest and Expect.
+Playwright end-to-end test automation boilerplate, using CommonJS, Jest and Expect.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/puppeteer-commonjs-jest-expect.git
-    cd puppeteer-commonjs-jest-expect
+    git clone git@github.com:e2e-boilerplates/playwright-commonjs-jest-expect.git
+    cd playwright-commonjs-jest-expect
     npm install
     npm run test

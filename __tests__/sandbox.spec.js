@@ -1,4 +1,4 @@
-const puppeteer = require("puppeteer");
+const { chromium } = require("playwright");
 
 let page;
 let browser;
@@ -6,9 +6,10 @@ let browser;
 describe("Sandbox", () => {
   beforeAll(async () => {
     browser = process.env.GITHUB_ACTIONS
-      ? await puppeteer.launch()
-      : await puppeteer.launch({ headless: false });
-    page = await browser.newPage();
+      ? await chromium.launch()
+      : await chromium.launch({ headless: false });
+    const context = await browser.newContext();
+    page = await context.newPage();
 
     await page
       .goto("https://e2e-boilerplates.github.io/sandbox/", {

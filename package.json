@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-commonjs-jest-expect",
+  "name": "playwright-commonjs-jest-expect",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs and jest.",
+  "description": "Playwright end-to-end test automation boilerplate project. Using commonjs and Jest.",
   "scripts": {
     "test": "jest",
     "lint": "npx eslint --ext .js ./ --fix"
@@ -14,7 +14,12 @@
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
-  "dependencies": {
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-config-prettier": "6.10.0",
@@ -22,15 +27,8 @@
     "eslint-plugin-prettier": "3.1.2",
     "jest": "24.9.0",
     "prettier": "1.19.1",
-    "puppeteer": "2.1.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
-  },
-  "devDependencies": {
     "husky": "4.2.3",
+    "playwright": "^0.10.0",
     "pretty-quick": "2.0.1"
   }
 }
