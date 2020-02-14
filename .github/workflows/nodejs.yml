@@ -1,4 +1,4 @@
-name: puppeteer-commonjs-jest-expect
+name: playwright-commonjs-jest-expect
 
 on: 
   push:
