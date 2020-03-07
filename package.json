@@ -32,8 +32,8 @@
     "url": "git+https://github.com/e2e-boilerplates/playwright-commonjs-jest-expect.git"
   },
   "scripts": {
-    "test": "jest",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "jest"
   },
   "version": "1.0.0"
 }
