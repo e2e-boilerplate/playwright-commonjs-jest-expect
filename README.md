@@ -6,7 +6,7 @@ Playwright end-to-end test automation boilerplate, using Commonjs, Jest and Expe
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-expect.git
-    	cd playwright-commonjs-jest-expect
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-expect.git
+    	2. cd playwright-commonjs-jest-expect
+    	3. npm install
+    	4. npm run test
