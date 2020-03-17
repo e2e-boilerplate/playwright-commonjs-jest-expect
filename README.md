@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-jest-expect](https://github.com/e2e-boilerplate/playwright-commonjs-jest-expect/workflows/playwright-commonjs-jest-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-jest-expect/actions?workflow=playwright-commonjs-jest-expect)
+[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-jest-expect](https://github.com/e2e-boilerplate/playwright-commonjs-jest-expect/workflows/playwright-commonjs-jest-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-jest-expect/actions?workflow=playwright-commonjs-jest-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Playwright Boilerplate
 
