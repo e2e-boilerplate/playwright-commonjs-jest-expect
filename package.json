@@ -1,8 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-jest-expect/issues"
   },
+  "dependencies": {},
   "description": "Playwright end-to-end test automation boilerplate. using Commonjs, Jest and Expect.",
   "devDependencies": {
     "eslint": "6.8.0",
@@ -23,13 +24,8 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jest",
     "playwright"
   ],
@@ -43,6 +39,5 @@
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "jest"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
