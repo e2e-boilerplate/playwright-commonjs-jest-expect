@@ -1,5 +1,5 @@
 name: playwright-commonjs-jest-expect
-"on":
+'on':
   push: null
   schedule:
     - cron: 40 4 1-31/2 * *
