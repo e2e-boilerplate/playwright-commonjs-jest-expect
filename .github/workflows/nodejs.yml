@@ -2,7 +2,7 @@ name: playwright-commonjs-jest-expect
 'on':
   push: null
   schedule:
-    - cron: 5 1 2-31/2 * *
+    - cron: 30 2 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
