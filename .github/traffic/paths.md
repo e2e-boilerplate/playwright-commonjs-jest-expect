@@ -1,9 +1,0 @@
-| referrer                                                                  | count | uniques |
-| :------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/playwright-commonjs-jest-expect                          | 4     | 3       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/actions                  | 2     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/actions/runs/71352297    | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/blob/master/package.json | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/issues                   | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/runs/562746576           | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jest-expect/runs/562755080           | 1     | 1       |
