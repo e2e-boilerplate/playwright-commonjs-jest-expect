@@ -2,7 +2,7 @@
     
 # Playwright Boilerplate
     
-Playwright end-to-end test automation boilerplate, Using Commonjs, Jest and Expect.
+Playwright end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Jest](https://jestjs.io) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-jest-expect.git
