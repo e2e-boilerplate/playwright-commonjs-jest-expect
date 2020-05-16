@@ -27,15 +27,16 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
+    "expect",
+    "jest",
+    "playwright",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "jest",
-    "playwright"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
